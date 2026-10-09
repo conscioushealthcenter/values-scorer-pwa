@@ -1,0 +1,18 @@
+{
+  "name": "Values-Aligned Social Media Scorer",
+  "short_name": "Values Scorer",
+  "description": "Local-first awareness of your social media content, scored against your own values. Your data stays on your device.",
+  "id": ".",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f8fa",
+  "theme_color": "#2f6fed",
+  "categories": ["lifestyle", "health"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
